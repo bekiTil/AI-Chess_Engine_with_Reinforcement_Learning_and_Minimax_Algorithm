@@ -21,3 +21,14 @@ This repository contains an AI-powered chess engine that leverages Reinforcement
    ```bash
    git clone https://github.com/bekiTil/AI-Chess_Engine_with_Reinforcement_Learning_and_Minimax_Algorithm.git
    cd AI-Chess_Engine_with_Reinforcement_Learning_and_Minimax_Algorithm
+# Usage
+
+Run the main script to start the game:
+
+```bash
+python main.py
+The game will start with the player controlling the white pieces. Click on a piece to select it and then click on a valid square to move it.
+
+The AI will automatically make moves for the black pieces.
+
+The game will display a message when it ends due to checkmate, stalemate, or threefold repetiti
