@@ -20,4 +20,4 @@ This repository contains an AI-powered chess engine that leverages Reinforcement
 1. Clone the repository:
    ```bash
    git clone https://github.com/bekiTil/AI-Chess_Engine_with_Reinforcement_Learning_and_Minimax_Algorithm.git
-   cd ai-chess-engine
+   cd AI-Chess_Engine_with_Reinforcement_Learning_and_Minimax_Algorithm
