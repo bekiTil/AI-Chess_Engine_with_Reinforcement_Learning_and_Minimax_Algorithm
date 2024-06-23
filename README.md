@@ -58,11 +58,11 @@ Q(s,a) \leftarrow Q(s,a) + \alpha \left[ r + \gamma \max_{a'} Q(s',a') - Q(s,a) 
 $$
 
 where:
-- \(\alpha\) is the learning rate.
-- \(r\) is the reward obtained after taking action \(a\).
-- \(\gamma\) is the discount factor.
-- \(s\) and \(s'\) are the current and next states, respectively.
-- \(a\) and \(a'\) are the current and next actions, respectively.
+- $\alpha$ is the learning rate.
+- $r$ is the reward obtained after taking action $a$.
+- $\gamma$ is the discount factor.
+- $s$ and $s'$ are the current and next states, respectively.
+- $a$ and $a'$ are the current and next actions, respectively.
 
 
 
