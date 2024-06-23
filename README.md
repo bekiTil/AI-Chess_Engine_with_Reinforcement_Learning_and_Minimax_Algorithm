@@ -52,15 +52,18 @@ The Q-learning model is a neural network that learns to evaluate board states by
 
    **Update Rule: Q-values are updated using the Q-learning formula:**
 
-\[ Q(s,a) \leftarrow Q(s,a) + \alpha [r + \gamma \max_{a'} Q(s',a') - Q(s,a)] \]
+
+$$
+Q(s,a) \leftarrow Q(s,a) + \alpha \left[ r + \gamma \max_{a'} Q(s',a') - Q(s,a) \right]
+$$
 
 where:
-
 - \(\alpha\) is the learning rate.
 - \(r\) is the reward obtained after taking action \(a\).
 - \(\gamma\) is the discount factor.
 - \(s\) and \(s'\) are the current and next states, respectively.
 - \(a\) and \(a'\) are the current and next actions, respectively.
+
 
 
 #### Learning Curve
