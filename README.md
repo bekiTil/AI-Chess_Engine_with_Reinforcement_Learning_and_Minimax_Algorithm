@@ -1,5 +1,11 @@
 # AI Chess Engine with Reinforcement Learning and Minimax Algorithm
 
+- Bereket Tilahun UGR/9703/12
+- Duressa Jemal UGR/3937/12
+- Yeabsira Driba UGR/4951/12
+- Beniyam Alemu UGR/4689/12
+
+
 ## Description
 
 This repository contains an AI-powered chess engine that leverages Reinforcement Learning (RL) techniques, specifically Q-learning, combined with the Minimax algorithm for decision making. The project is built using Python and Pygame for visual representation of the chessboard and pieces. The AI engine evaluates board states and makes optimal moves, continuously improving its performance through RL.
