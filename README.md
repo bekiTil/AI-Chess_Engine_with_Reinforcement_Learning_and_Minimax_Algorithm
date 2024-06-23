@@ -72,6 +72,9 @@ The effectiveness of the RL training process can be visualized using the learnin
 
 - **Initial Learning Phase:** In the initial phase, the loss decreases rapidly, indicating that the model is quickly learning the basics of board evaluation.
 - **Extended Learning Phase:** In the extended learning phase, the loss stabilizes, showing that the model is refining its strategies and making more nuanced decisions.
+  ![Visualization 1]([https://github.com/bekiTil/AI-Chess_Engine_with_Reinforcement_Learning_and_Minimax_Algorithm/blob/main/Visualization1.png] "Optional title")
+  ![Visualization 2]([https://github.com/bekiTil/AI-Chess_Engine_with_Reinforcement_Learning_and_Minimax_Algorithm/blob/main/Visualization2.png] "Optional title")
+
 
 ### Minimax Algorithm with Alpha-Beta Pruning
 
