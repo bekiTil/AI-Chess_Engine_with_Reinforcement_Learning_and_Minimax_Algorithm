@@ -27,6 +27,7 @@ Run the main script to start the game:
 
 ```bash
 python main.py
+
 The game will start with the player controlling the white pieces. Click on a piece to select it and then click on a valid square to move it.
 
 The AI will automatically make moves for the black pieces.
